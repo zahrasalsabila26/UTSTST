@@ -1,0 +1,16 @@
+{
+    "menu": [
+        {
+            "id": 2,
+            "name": "sayur"
+        },
+        {
+            "id": 3,
+            "name": "lauk"
+        },
+        {
+            "id": 4,
+            "name": "asal"
+        }
+    ]
+}
